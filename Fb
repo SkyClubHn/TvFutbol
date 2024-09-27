@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:11, FUTBOL 04
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:11,LA LIGA
+#EXTVLCOPT:file-caching=1000
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:11,ESPN 3
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:23,BEIN SPORTS 1 HD
+#EXTVLCOPT:file-caching=1000
+http://51.178.65.238/BeinSport/mono.m3u8
+#EXTINF:60, Fox Deportes Español
+#EXTVLCOPT:file-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:file-caching=1000
+http://181.78.8.90:16123/play/ch17
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:file-caching=1000
+http://181.78.8.90:16123/play/ch19
+#EXTINF:11,ESPN 2 Latin
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:60, FUTBOL 01
+#EXTVLCOPT:file-caching=1000
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+#EXTINF:0, FUTBOL 03
+#EXTVLCOPT:file-caching=1000
+http://190.185.121.102:58092/play/a00t
+#EXTINF:11, FUTBOL 06
+#EXTVLCOPT:file-caching=1000
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:0, FUTBOL 07
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:8800/play/a07h
+#EXTINF:26, FUTBOL 15
+#EXTVLCOPT:file-caching=1000
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:26, FUTBOL 15
+#EXTVLCOPT:file-caching=1000
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:26, FUTBOL 15
+#EXTVLCOPT:file-caching=1000
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:26, FUTBOL 15
+#EXTVLCOPT:file-caching=1000
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:11,ESPN 4
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:0,***** club tv ****
+#EXTVLCOPT:file-caching=1000
+*****%20club%20tv%20****
+#EXTINF:60, MX: AYM SPORTS
+#EXTVLCOPT:file-caching=1000
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:60, MX: AYM SPORTS
+#EXTVLCOPT:file-caching=1000
+https://aym-as.otteravision.com/aym/as/as.m3u8#EXTINF:-1%20group-title=%22Bics%20DEPORTES%22,%20US:%20TUDN
+#EXTINF:60, MX: FOX SPORTS ESPAÑOL
+#EXTVLCOPT:file-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:0,******************************************* rasta  ******************************************************************************
+#EXTVLCOPT:file-caching=1000
+*******************************************%20rasta%20%20******************************************************************************
+#EXTINF:11,Claro Sport
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:11,ESPN
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:11,ESPN 2
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:11,ESPN
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:11,ESPN3
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:11, TUDN
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:11, SKY LA LIGA
+#EXTVLCOPT:file-caching=1000
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:0,************************** sports *********************************
+#EXTVLCOPT:file-caching=1000
+**************************%20sports%20*********************************
+#EXTINF:0,ESPN VIVO
+#EXTVLCOPT:file-caching=1000
+http://181.78.8.90:16123/play/ch16
+#EXTINF:11,ESPN 1
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:11,ESPN 6
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:11,ESPN 7
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a01e/index.m3u8
+#EXTINF:0, AR: ESPN
+#EXTVLCOPT:file-caching=1000
+http://181.78.8.90:16123/play/ch16
+#EXTINF:11,ESPN 1
+#EXTVLCOPT:file-caching=1000
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:0,*******************************************************************************************************************************************************
+#EXTVLCOPT:file-caching=1000
+*******************************************************************************************************************************************************
+#EXTINF:0,******** diabluras *********
+#EXTVLCOPT:file-caching=1000
+********%20diabluras%20*********
